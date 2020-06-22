@@ -39,6 +39,6 @@ width:1.2rem;
 
 p{
   flex-flow: row wrap;
-  color:white;
-  background-color: deeppink;
+  color:#172222;
+  margin: 6rem;
 }
